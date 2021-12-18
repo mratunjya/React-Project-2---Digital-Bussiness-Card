@@ -1,0 +1,135 @@
+.person {
+    background-color: #1A1B21;
+    border-radius: 5px;
+    min-width: 317px;
+    max-width: 90% !important;
+}
+
+.person * {
+    color: #fff
+}
+
+.person-img {
+    width: 100%;
+    border-radius: 5px 5px 0 0;
+    -webkit-border-radius: 5px 5px 0 0;
+    -moz-border-radius: 5px 5px 0 0;
+    -ms-border-radius: 5px 5px 0 0;
+    -o-border-radius: 5px 5px 0 0;
+}
+
+.other-info {
+    padding-top: 21px;
+    padding-bottom: 34px;
+}
+
+.Name {
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 6.19px;
+}
+
+.title {
+    color: #F3BF99;
+    font-size: 12.8px;
+    text-align: center;
+    margin-bottom: 8.81px;
+}
+
+.website {
+    font-size: 10.24px;
+    text-align: center;
+}
+
+.email {
+    background-color: #fff;
+    height: 34px;
+    color: #374151;
+    font-weight: bold;
+    padding: 9px 0;
+    display: block;
+    width: 46.56%;
+    min-width: 115px;
+    text-align: center;
+    height: fit-content;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+    margin-top: 15px;
+}
+
+.email i {
+    color: #374151;
+    margin-right: 9.6px;
+}
+
+.linked-in {
+    margin-top: 15px;
+    background-color: #5093E2;
+    height: 34px;
+    color: #fff;
+    font-weight: 500;
+    padding: 9px 0;
+    display: block;
+    width: 46.56%;
+    min-width: 115px;
+    text-align: center;
+    height: fit-content;
+    border-radius: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    -ms-border-radius: 6px;
+    -o-border-radius: 6px;
+}
+
+.linked-in i {
+    color: #fff;
+    margin-right: 9.6px;
+}
+
+.about {
+    margin-top: 33px;
+    font-size: 16px;
+}
+
+.interest {
+    margin-top: 17px;
+    font-size: 16px;
+}
+
+.sub-txt {
+    font-size: 10.24px;
+    font-weight: 400;
+    color: #DCDCDC;
+}
+
+.person-footer {
+    background-color: #161619;
+    border-radius: 0 0 5px 5px;
+    -webkit-border-radius: 0 0 5px 5px;
+    -moz-border-radius: 0 0 5px 5px;
+    -ms-border-radius: 0 0 5px 5px;
+    -o-border-radius: 0 0 5px 5px;
+    padding: 19.5px 0;
+}
+
+.person-footer > .flex {
+    width: 171.5px;
+}
+
+.person-footer > .flex > div {
+    background-color: #918E9B;
+    width: 25px;
+    height: 25px;
+    border-radius: 3px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+}
+
+.person-footer i {
+    color: #161619;
+}

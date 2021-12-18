@@ -1,0 +1,8 @@
+.bussiness-card {
+    background-color: #23252C;
+    min-width: 40.26%;
+    width: 550px;
+    max-width: 90% !important;
+    box-sizing: border-box;
+    padding: 44px 8.51%
+}
