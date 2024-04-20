@@ -9,7 +9,7 @@ function Person(props) {
     let linkedin = props.linkedin;
     let about = props.about;
     let interests = props.interests;
-    let Dp = "https://thispersondoesnotexist.com/image";
+    let Dp = "https://thispersondoesnotexist.com";
     return (
         <div className="person">
             <img className="person-img" src={Dp} alt="Person"></img>
